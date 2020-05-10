@@ -4,6 +4,6 @@ import (
 	"fmt"
 )
 
-func print() {
+func Print() {
 	fmt.Printf("Library works")
 }
